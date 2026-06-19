@@ -1,9 +1,8 @@
-tensorflow
+tensorflow==2.20.0
 pandas
 numpy
 scikit-learn
 tensorboard
 matplotlib
-tensorflow==2.20.0
 streamlit
 h5py
